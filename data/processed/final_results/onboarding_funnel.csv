@@ -1,0 +1,7 @@
+step_order,funnel_step,users
+1,Account Created,50000
+2,OTP Verified,47047
+3,KYC Started,40948
+4,KYC Completed,30118
+5,Bank Linked,26513
+6,First Successful Transaction,19102

@@ -1,0 +1,3 @@
+variant,assigned_users,kyc_completion_rate_pct,support_contact_rate_pct,activation_rate_pct
+control,3012,62.55,13.48,39.18
+treatment,3020,62.48,13.64,39.60
